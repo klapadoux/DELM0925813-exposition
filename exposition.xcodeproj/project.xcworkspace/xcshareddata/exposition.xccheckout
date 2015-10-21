@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FC7C8E79-A361-4E4A-9AE1-0D35F80715E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>exposition</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D42E45CF5A0C359D027195C135FCD436F42EE8D5</key>
+		<string>https://github.com/klapadoux/DELM0925813-exposition.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>exposition.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D42E45CF5A0C359D027195C135FCD436F42EE8D5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/klapadoux/DELM0925813-exposition.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D42E45CF5A0C359D027195C135FCD436F42EE8D5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D42E45CF5A0C359D027195C135FCD436F42EE8D5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DELM0925813-exposition</string>
+		</dict>
+	</array>
+</dict>
+</plist>
